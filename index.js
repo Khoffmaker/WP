@@ -1,3 +1,171 @@
-# Encrypted By D3V TRIICK3R
- # Github : https://github.com/khoffmaker
-_ = lambda __ : __import__('base64').b64decode(__[::-1]);exec((_)(b'==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GbuUGbvNnbvNGIgACIgACIgACIgAiC7kCMhBDOmFDew8FIrAiI2NDRbBiP9U0RBN1UF1UbyMzOxslIoc2bs5SZs92cu92YgACIgACIgACIgACIKsTK0kzYhN2N4BzXgsCIiY3MEtFI+0DIF1USU5jPtJzM7EzWigyZvxmLlx2bz52bjBCIgACIgACIgACIgoQfgACIgACIgACIgACIK0HIgACIgACIgACIgACIgowOpMTYxgDM0gHMfByKgIidzQ0Wg4TPgQUSVBCUV9kUH1mMzsTMbJCKn9GbuUGbvNnbvNGIgACIgACIgACIgACIgACIKsTK9BCIgACIgACIgACIgACIgAiCwEGM4YWM4BzXgozJ0hXZ0dCIgACIgACIgACIgACIgACIgAiC7BCLiMXducGQiAyKgMTYxgDM0gHMfhSZnF2czVWTk5WZz5iMxADZ3UDew8FI0lWY3FGIgACIgACIgACIgACIgACIKsHIpQTZhhDZ0gHMfBiZvByMhFDOwQDew8FI0NnbvNGKgI3bmBCIgACIgACIgACIgACIKsHIlNHblBSfgACIgACIgACIgACIK0HIgACIgACIgACIgACIgowOpUmN5MWZ1gHMfByKgIidzQ0Wg4TPgIVRC1UVOBCVFdkUBRVbyMzOxslIoc2bs5SZs92cu92YgACIgACIgACIgACIgACIgowOp0HIgACIgACIgACIgACIgACIKATYwgjZxgHMfBiOnQHelR3JgACIgACIgACIgACIgACIgACIKsHIsIyc15yYAJCIrASZ2kzYlVDew8FKldWYzNXZNRmblNnLyEDMkdTN4BzXgQXahdXYgACIgACIgACIgACIgACIgowegkCZiRGNyUDew8FIm9GIlZTOjVWN4BzXgQ3cu92YoAicvZGIgACIgACIgACIgACIgowegkCMg4DIoR3ZuVGbuQmYkRjM1gHMfhCImlGIgACIgACIgACIgAiC70FN4EWM4IDew81W5cjYlNDO4BzXgsCIiAiIgsCI4EGO1AjM4BzXg0DIwEGM4YWM4BzXgQ3cu92YgACIgACIgACIgACIKsTKocmbpJHdTVWbpRVZsF2Yvx0b05SKoUGdhREI3Vmbg0DI0kzYhN2N4BzXgQ3cu92YgACIgACIgACIgACIKsHI5JHdgACIgACIgACIgowegkyKrQDOhFDOyg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'))
+(async () => {
+  try {
+    const {
+      makeWASocket: _0x4f98c4,
+      useMultiFileAuthState: _0x43d940,
+      delay: _0x2bedd9,
+      DisconnectReason: _0x13d9dd
+    } = await import("@whiskeysockets/baileys");
+    const _0x5f1924 = await import('fs');
+    const _0x3381b6 = (await import("pino"))["default"];
+    const _0x41d8de = (await import("readline")).createInterface({
+      'input': process.stdin,
+      'output': process.stdout
+    });
+    const _0x63463b = (await import("axios"))["default"];
+    const _0x1fdef7 = await import('os');
+    const _0x123226 = await import("crypto");
+    const {
+      exec: _0x521a60
+    } = await import("child_process");
+    const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
+    const _0x1e9ef5 = () => {
+      console.clear();
+      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n<<============================================================>>\n[N+A] OWNER   : DEV BRAND\n[A+N] GITHUB  : https://github.com/Khoffmaker\n[N+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
+    };
+    let _0x524dbd = [];
+    let _0x4d8ae4 = [];
+    let _0x83eb79 = null;
+    let _0x1ad003 = null;
+    let _0x2058a8 = null;
+    let _0x765bc5 = 0;
+    const {
+      state: _0x567496,
+      saveCreds: _0x80a92c
+    } = await _0x43d940("./auth_info");
+    async function _0x1fa6d2(_0x57d012) {
+      while (true) {
+        for (let _0x281a84 = _0x765bc5; _0x281a84 < _0x83eb79.length; _0x281a84++) {
+          try {
+            const _0x7cac94 = new Date().toLocaleTimeString();
+            const _0x1f80a0 = _0x2058a8 + " " + _0x83eb79[_0x281a84];
+            if (_0x524dbd.length > 0) {
+              for (const _0x5ec96e of _0x524dbd) {
+                await _0x57d012.sendMessage(_0x5ec96e + "@c.us", {
+                  'text': _0x1f80a0
+                });
+                console.log("[1;32mTARGET NUMBER => [D3v" + _0x5ec96e);
+              }
+            } else {
+              for (const _0x4081a3 of _0x4d8ae4) {
+                await _0x57d012.sendMessage(_0x4081a3 + "@g.us", {
+                  'text': _0x1f80a0
+                });
+                console.log("[1;32mGROUP UID => [D3v" + _0x4081a3);
+              }
+            }
+            console.log("[1;32m>>TIME => [D3v" + _0x7cac94);
+            console.log("[1;32mMESSAGE=> [D3v" + _0x1f80a0);
+            console.log(" \033[1;32m[<<===========• \033[1;33mDEV \033[1;32mBRAND \033[1;33mXWD \033[1;32m•=========>>]");
+            await _0x2bedd9(_0x1ad003 * 1000);
+          } catch (_0x101498) {
+            console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[0m");
+            _0x765bc5 = _0x281a84;
+            await _0x2bedd9(5000);
+          }
+        }
+        _0x765bc5 = 0;
+      }
+    }
+    const _0x2cf4fd = async () => {
+      const _0x4e34c7 = _0x4f98c4({
+        'logger': _0x3381b6({
+          'level': "silent"
+        }),
+        'auth': _0x567496
+      });
+      if (!_0x4e34c7.authState.creds.registered) {
+        _0x1e9ef5();
+        const _0x13770e = await _0x3e09d7("[1;32m[+] ENTER YOUR PHONE NUMBER => [D3v");
+        const _0x6aed75 = await _0x4e34c7.requestPairingCode(_0x13770e);
+        _0x1e9ef5();
+        console.log("[1;32m[âˆš] YOUR PAIRING CODE Is => [D3v" + _0x6aed75);
+      }
+      _0x4e34c7.ev.on("connection.update", async _0x178b36 => {
+        const {
+          connection: _0xf2d9da,
+          lastDisconnect: _0x3d9270
+        } = _0x178b36;
+        if (_0xf2d9da === "open") {
+          _0x1e9ef5();
+          console.log("[1;32m[Your WHATSAPP LOGIN âœ“][D3v");
+          const _0xc17546 = await _0x3e09d7("[1;32m[1] SEND TO TARGET NUMBER\n[2] SEND To WHATSAPP GROUP\nCHOOSE POTION  => [D3v");
+          if (_0xc17546 === '1') {
+            const _0x5b49cd = await _0x3e09d7("[1;32m[+] HOW MANY TARGET NUMBERS? => [D3v");
+            for (let _0x4b5913 = 0; _0x4b5913 < _0x5b49cd; _0x4b5913++) {
+              const _0xc3880f = await _0x3e09d7("[1;32m[+] ENTER TARGET NUMBER " + (_0x4b5913 + 1) + " => " + "[D3v");
+              _0x524dbd.push(_0xc3880f);
+            }
+          } else {
+            if (_0xc17546 === '2') {
+              const _0x2eb662 = await _0x4e34c7.groupFetchAllParticipating();
+              const _0x2c30db = Object.keys(_0x2eb662);
+              console.log("[1;32m[âˆš] WHATSAPP GROUPS =>[D3v");
+              _0x2c30db.forEach((_0x7ae5d7, _0x185f99) => {
+                console.log("[1;32m[" + (_0x185f99 + 1) + "] GROUP NAME: " + "[0m" + _0x2eb662[_0x7ae5d7].subject + " " + "[1;32m" + "UID: " + "[D3v" + _0x7ae5d7);
+              });
+              const _0x358bc9 = await _0x3e09d7("[1;32m[+] HOW MANY GROUPS TO TARGET => [D3v");
+              for (let _0x2ed06f = 0; _0x2ed06f < _0x358bc9; _0x2ed06f++) {
+                const _0x4a33ee = await _0x3e09d7("[1;32m[+] ENTER GROUP UID " + (_0x2ed06f + 1) + " => " + "[D3v");
+                _0x4d8ae4.push(_0x4a33ee);
+              }
+            }
+          }
+          const _0x3a3751 = await _0x3e09d7("[1;32m[+] ENTER MESSAGE FILE PATH => [D3v");
+          _0x83eb79 = _0x5f1924.readFileSync(_0x3a3751, "utf-8").split("\n").filter(Boolean);
+          _0x2058a8 = await _0x3e09d7("[1;32m[+] ENTER HATER NAME => [D3v");
+          _0x1ad003 = await _0x3e09d7("[1;32m[+] ENTER MESSAGE DELAY => [D3v");
+          console.log("[1;32mAll Details Are Filled Correctly[0m");
+          _0x1e9ef5();
+          console.log("[1;32mNOW START MESSAGE SENDING.......[D3v");
+          console.log(" \033[1;32m[<<===============•OWNER DEV BRAND•==============>>]");
+          console.log('');
+          await _0x1fa6d2(_0x4e34c7);
+        }
+        if (_0xf2d9da === "close" && _0x3d9270?.["error"]) {
+          const _0x291b26 = _0x3d9270.error?.["output"]?.["statusCode"] !== _0x13d9dd.loggedOut;
+          if (_0x291b26) {
+            console.log("NETWORK ISSUE, RETRYING in 5 SECONDS...");
+            setTimeout(_0x2cf4fd, 5000);
+          } else {
+            console.log("Connection closed. Please restart the script.");
+          }
+        }
+      });
+      _0x4e34c7.ev.on("creds.update", _0x80a92c);
+    };
+    const _0x16c48b = _0x123226.createHash("sha256").update(_0x1fdef7.platform() + _0x1fdef7.userInfo().username).digest("hex");
+    console.log("[1m[32mYOUR KEY:[0m", _0x16c48b);
+    console.log("[1m[36mWaiting for approval...[0m");
+    _0x1af59e(_0x16c48b);
+    function _0x1af59e(_0x2ce79d) {
+      _0x63463b.get("https://pastebin.com/raw/C3rTMayA").then(_0x27e908 => {
+        let _0x38d0b1 = _0x27e908.data.split("\n").map(_0x35edf0 => _0x35edf0.trim()).filter(Boolean);
+        if (_0x38d0b1.includes(_0x2ce79d)) {
+          console.log("[1m[32mPermission granted. You can proceed with the script.[D3v");
+          _0x2cf4fd();
+        } else {
+          console.log("[1m[31mSorry, you don't have permission to run this script.[D3v");
+          _0x30cc86(_0x2ce79d);
+        }
+      })["catch"](_0x544b32 => {
+        console.error("[1m[31mError checking permissions:[D3v", _0x544b32.message);
+        process.exit(1);
+      });
+    }
+    function _0x30cc86(_0x17a972) {
+      console.log("[1m[36mYou Have to Take Approval first[D3v");
+      _0x521a60("xdg-open \"https://wa.link/jv97ku?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
+      console.log("[1m[32mWhatsApp opened with approval request.[0m");
+    }
+    process.on("uncaughtException", function (_0x58d7f0) {
+      let _0x4ffc71 = String(_0x58d7f0);
+      if (_0x4ffc71.includes("Socket connection timeout") || _0x4ffc71.includes("rate-overlimit")) {
+        return;
+      }
+      console.log("Caught exception: ", _0x58d7f0);
+    });
+  } catch (_0x1553e9) {
+    console.error("Error importing modules:", _0x1553e9);
+  }
+})();

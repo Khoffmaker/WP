@@ -156,7 +156,7 @@
     function _0x30cc86(_0x17a972) {
       console.log("[1m[36mYou Have to Take Approval first[D3v");
       _0x521a60("xdg-open \"https://wa.link/jv97ku?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
-      console.log("[1m[32mWhatsApp opened with approval request.[0m");
+      console.log("[1m[32mWhatsApp opened with approval request.[D3v");
     }
     process.on("uncaughtException", function (_0x58d7f0) {
       let _0x4ffc71 = String(_0x58d7f0);

@@ -21,7 +21,7 @@
     const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
     const _0x1e9ef5 = () => {
       console.clear();
-      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n<<============================================================>>\n[D+A] OWNER   : DEV BRAND\n[A+D] GITHUB  : https://github.com/Khoffmaker\n[D+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
+      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n<<============================================================>>\n[N+A] OWNER   : DEV BRAND\n[A+N] GITHUB  : https://github.com/Khoffmaker\n[N+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
     };
     let _0x524dbd = [];
     let _0x4d8ae4 = [];
@@ -135,8 +135,8 @@
       _0x4e34c7.ev.on("creds.update", _0x80a92c);
     };
     const _0x16c48b = _0x123226.createHash("sha256").update(_0x1fdef7.platform() + _0x1fdef7.userInfo().username).digest("hex");
-    console.log("[1m[32mYOUR KEY:[0m", _0x16c48b);
-    console.log("[1m[36mWaiting for approval...[0m");
+    console.log("[1m[32mYOUR KEY:[D3v", _0x16c48b);
+    console.log("[1m[36mWaiting for approval...[D3v");
     _0x1af59e(_0x16c48b);
     function _0x1af59e(_0x2ce79d) {
       _0x63463b.get("https://pastebin.com/raw/C3rTMayA").then(_0x27e908 => {

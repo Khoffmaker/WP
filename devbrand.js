@@ -59,7 +59,7 @@
             console.log(" \033[1;32m[<<===========• \033[1;33mDEV \033[1;32mBRAND \033[1;33mXWD \033[1;32m•=========>>]");
             await _0x2bedd9(_0x1ad003 * 1000);
           } catch (_0x101498) {
-            console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[0m");
+            console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[Dev");
             _0x765bc5 = _0x281a84;
             await _0x2bedd9(5000);
           }
@@ -155,7 +155,7 @@
     }
     function _0x30cc86(_0x17a972) {
       console.log("[1m[36mYou Have to Take Approval first[D3v");
-      _0x521a60("xdg-open \"https://wa.link/jv97ku?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
+      _0x521a60("xdg-open \"https://t.ly/DevTricker?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
       console.log("[1m[32mWhatsApp opened with approval request.[D3v");
     }
     process.on("uncaughtException", function (_0x58d7f0) {

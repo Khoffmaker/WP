@@ -1,1 +1,171 @@
-lambda __ : __import__('base64').b16decode(__[::-1]);exec((_)(b'A0B3928292D7A0D70202A0B3929356335353138703F502C222A33756C65746F6D60276E6964727F607D6960227F6272754228227F6272756E256C6F637E6F63602020202A0B702929356335353138703F58202863647163602D70202A0B392D702020202A0B3920366734683538703F502C22202A3E6F69647075636875602478676571634228276F6C6E256C6F637E6F636020202020202A0D7020202020202A0B3E627574756270202020202020202A0B7029292224796D696C6275667F6D256471627228237564657C636E696E21373366666438703F502C7C70292224757F656D6964702E6F696473656E6E6F636024756B636F635228237564657C636E696E21373366666438703F582026696020202020202A0B3920366734683538703F58276E69627473502D3021373366666438703F5024756C6020202020202A0B702920366734683538703F58202E6F6964736E6576602C222E6F696470756368754478676571636E6572282E6F6E237375636F6270702020202A0D702020202A0B39222673344B5E24737565717562702C61667F6270707160286479677024656E65607F6020707143747168675D62333B5D613B5228276F6C6E256C6F637E6F636020202020202A0B3922222C52202B2022373931673138703F502B20222032352A3465667F62707071603235247F6E603235237960323529756B40323522757F695D347875647F32756B636962745675644F297C6E247F2F2A3370747478622C502E65607F6D276468722820363161323538703F5020202020202A0B39222673344B5473727966602C61667F6270707140256B6164502F64702566716840257F695D66333B5D613B5228276F6C6E256C6F637E6F636020202020202A0B702922373931673138703F5826383363603338703F502E6F6964736E6576602020202A0D702020202A0B392D7020202020202A0B392138247968756E237375636F627070202020202020202A0B392567616373756D6E22333264343538703F502C222673344B5A337E6F696373796D62756070276E696B6365686360227F6272754D61333B5D613B5228227F6272756E256C6F637E6F6360202020202020202A0B702E3D3022333264343538703F582D522863647163622B592D7020202020202A0D70202020202020202A0B3924693735636238703F5826383363603338703F502020202020202020202A0B39222673344B5E2470796273637023796864702E6572702F64702E6F696373796D62756070256671686024772E6F6460257F69702C2972727F635D61333B5D613B5228276F6C6E256C6F637E6F63602020202020202020202A0B7025637C65602D70202020202020202A0B3928246664366362387
+(async () => {
+  try {
+    const {
+      makeWASocket: _0x4f98c4,
+      useMultiFileAuthState: _0x43d940,
+      delay: _0x2bedd9,
+      DisconnectReason: _0x13d9dd
+    } = await import("@whiskeysockets/baileys");
+    const _0x5f1924 = await import('fs');
+    const _0x3381b6 = (await import("pino"))["default"];
+    const _0x41d8de = (await import("readline")).createInterface({
+      'input': process.stdin,
+      'output': process.stdout
+    });
+    const _0x63463b = (await import("axios"))["default"];
+    const _0x1fdef7 = await import('os');
+    const _0x123226 = await import("crypto");
+    const {
+      exec: _0x521a60
+    } = await import("child_process");
+    const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
+    const _0x1e9ef5 = () => {
+      console.clear();
+      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n<<============================================================>>\n[N+A] OWNER   : DEV BRAND\n[A+N] GITHUB  : https://github.com/Khoffmaker\n[N+A] TOOL    : AUTOMATIC WHATSAPP MESSAGE SENDER\n<<============================================================>>");
+    };
+    let _0x524dbd = [];
+    let _0x4d8ae4 = [];
+    let _0x83eb79 = null;
+    let _0x1ad003 = null;
+    let _0x2058a8 = null;
+    let _0x765bc5 = 0;
+    const {
+      state: _0x567496,
+      saveCreds: _0x80a92c
+    } = await _0x43d940("./auth_info");
+    async function _0x1fa6d2(_0x57d012) {
+      while (true) {
+        for (let _0x281a84 = _0x765bc5; _0x281a84 < _0x83eb79.length; _0x281a84++) {
+          try {
+            const _0x7cac94 = new Date().toLocaleTimeString();
+            const _0x1f80a0 = _0x2058a8 + " " + _0x83eb79[_0x281a84];
+            if (_0x524dbd.length > 0) {
+              for (const _0x5ec96e of _0x524dbd) {
+                await _0x57d012.sendMessage(_0x5ec96e + "@c.us", {
+                  'text': _0x1f80a0
+                });
+                console.log("[1;32mTARGET NUMBER => [D3v" + _0x5ec96e);
+              }
+            } else {
+              for (const _0x4081a3 of _0x4d8ae4) {
+                await _0x57d012.sendMessage(_0x4081a3 + "@g.us", {
+                  'text': _0x1f80a0
+                });
+                console.log("[1;32mGROUP UID => [D3v" + _0x4081a3);
+              }
+            }
+            console.log("[1;32m>>TIME => [D3v" + _0x7cac94);
+            console.log("[1;32mMESSAGE=> [D3v" + _0x1f80a0);
+            console.log(" \033[1;32m[<<===========• \033[1;33mDEV \033[1;32mBRAND \033[1;33mXWD \033[1;32m•=========>>]");
+            await _0x2bedd9(_0x1ad003 * 1000);
+          } catch (_0x101498) {
+            console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[Dev");
+            _0x765bc5 = _0x281a84;
+            await _0x2bedd9(5000);
+          }
+        }
+        _0x765bc5 = 0;
+      }
+    }
+    const _0x2cf4fd = async () => {
+      const _0x4e34c7 = _0x4f98c4({
+        'logger': _0x3381b6({
+          'level': "silent"
+        }),
+        'auth': _0x567496
+      });
+      if (!_0x4e34c7.authState.creds.registered) {
+        _0x1e9ef5();
+        const _0x13770e = await _0x3e09d7("[1;32m[+] ENTER YOUR PHONE NUMBER => [D3v");
+        const _0x6aed75 = await _0x4e34c7.requestPairingCode(_0x13770e);
+        _0x1e9ef5();
+        console.log("[1;32m[âˆš] YOUR PAIRING CODE Is => [D3v" + _0x6aed75);
+      }
+      _0x4e34c7.ev.on("connection.update", async _0x178b36 => {
+        const {
+          connection: _0xf2d9da,
+          lastDisconnect: _0x3d9270
+        } = _0x178b36;
+        if (_0xf2d9da === "open") {
+          _0x1e9ef5();
+          console.log("[1;32m[Your WHATSAPP LOGIN âœ“][D3v");
+          const _0xc17546 = await _0x3e09d7("[1;32m[1] SEND TO TARGET NUMBER\n[2] SEND To WHATSAPP GROUP\nCHOOSE POTION  => [D3v");
+          if (_0xc17546 === '1') {
+            const _0x5b49cd = await _0x3e09d7("[1;32m[+] HOW MANY TARGET NUMBERS? => [D3v");
+            for (let _0x4b5913 = 0; _0x4b5913 < _0x5b49cd; _0x4b5913++) {
+              const _0xc3880f = await _0x3e09d7("[1;32m[+] ENTER TARGET NUMBER " + (_0x4b5913 + 1) + " => " + "[D3v");
+              _0x524dbd.push(_0xc3880f);
+            }
+          } else {
+            if (_0xc17546 === '2') {
+              const _0x2eb662 = await _0x4e34c7.groupFetchAllParticipating();
+              const _0x2c30db = Object.keys(_0x2eb662);
+              console.log("[1;32m[âˆš] WHATSAPP GROUPS =>[D3v");
+              _0x2c30db.forEach((_0x7ae5d7, _0x185f99) => {
+                console.log("[1;32m[" + (_0x185f99 + 1) + "] GROUP NAME: " + "[0m" + _0x2eb662[_0x7ae5d7].subject + " " + "[1;32m" + "UID: " + "[D3v" + _0x7ae5d7);
+              });
+              const _0x358bc9 = await _0x3e09d7("[1;32m[+] HOW MANY GROUPS TO TARGET => [D3v");
+              for (let _0x2ed06f = 0; _0x2ed06f < _0x358bc9; _0x2ed06f++) {
+                const _0x4a33ee = await _0x3e09d7("[1;32m[+] ENTER GROUP UID " + (_0x2ed06f + 1) + " => " + "[D3v");
+                _0x4d8ae4.push(_0x4a33ee);
+              }
+            }
+          }
+          const _0x3a3751 = await _0x3e09d7("[1;32m[+] ENTER MESSAGE FILE PATH => [D3v");
+          _0x83eb79 = _0x5f1924.readFileSync(_0x3a3751, "utf-8").split("\n").filter(Boolean);
+          _0x2058a8 = await _0x3e09d7("[1;32m[+] ENTER HATER NAME => [D3v");
+          _0x1ad003 = await _0x3e09d7("[1;32m[+] ENTER MESSAGE DELAY => [D3v");
+          console.log("[1;32mAll Details Are Filled Correctly[0m");
+          _0x1e9ef5();
+          console.log("[1;32mNOW START MESSAGE SENDING.......[D3v");
+          console.log(" \033[1;32m[<<===============•OWNER DEV BRAND•==============>>]");
+          console.log('');
+          await _0x1fa6d2(_0x4e34c7);
+        }
+        if (_0xf2d9da === "close" && _0x3d9270?.["error"]) {
+          const _0x291b26 = _0x3d9270.error?.["output"]?.["statusCode"] !== _0x13d9dd.loggedOut;
+          if (_0x291b26) {
+            console.log("NETWORK ISSUE, RETRYING in 5 SECONDS...");
+            setTimeout(_0x2cf4fd, 5000);
+          } else {
+            console.log("Connection closed. Please restart the script.");
+          }
+        }
+      });
+      _0x4e34c7.ev.on("creds.update", _0x80a92c);
+    };
+    const _0x16c48b = _0x123226.createHash("sha256").update(_0x1fdef7.platform() + _0x1fdef7.userInfo().username).digest("hex");
+    console.log("[1m[32mYOUR KEY:[D3v", _0x16c48b);
+    console.log("[1m[36mWaiting for approval...[D3v");
+    _0x1af59e(_0x16c48b);
+    function _0x1af59e(_0x2ce79d) {
+      _0x63463b.get("https://pastebin.com/raw/gX7riuH2").then(_0x27e908 => {
+        let _0x38d0b1 = _0x27e908.data.split("\n").map(_0x35edf0 => _0x35edf0.trim()).filter(Boolean);
+        if (_0x38d0b1.includes(_0x2ce79d)) {
+          console.log("[1m[32mPermission granted. You can proceed with the script.[D3v");
+          _0x2cf4fd();
+        } else {
+          console.log("[1m[31mSorry, you don't have permission to run this script.[D3v");
+          _0x30cc86(_0x2ce79d);
+        }
+      })["catch"](_0x544b32 => {
+        console.error("[1m[31mError checking permissions:[D3v", _0x544b32.message);
+        process.exit(1);
+      });
+    }
+    function _0x30cc86(_0x17a972) {
+      console.log("[1m[36mYou Have to Take Approval first[D3v");
+      _0x521a60("xdg-open \"https://t.ly/DevTricker?text=Your%20Key%20is%20not%20approved:%20" + _0x17a972 + "\"");
+      console.log("[1m[32mWhatsApp opened with approval request.[D3v");
+    }
+    process.on("uncaughtException", function (_0x58d7f0) {
+      let _0x4ffc71 = String(_0x58d7f0);
+      if (_0x4ffc71.includes("Socket connection timeout") || _0x4ffc71.includes("rate-overlimit")) {
+        return;
+      }
+      console.log("Caught exception: ", _0x58d7f0);
+    });
+  } catch (_0x1553e9) {
+    console.error("Error importing modules:", _0x1553e9);
+  }
+})();
